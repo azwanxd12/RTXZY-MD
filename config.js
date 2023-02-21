@@ -6,16 +6,16 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['62895412284006']  
+global.mods = ['628954122840006'] 
+global.prems = ['62895412284006']
 /*Nomor Owner & payment*/
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.nameowner = 'wanz'
+global.numberowner = '62859412284006' 
 global.mail = 'tioclkp02@gmail.com' //enter your email 🗿
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.dana = '6281395861695899'
+global.pulsa = '628139586169599003'
+global.gopay = '62813958616984999'
 /*Nama Bot & Grouplink*/
 global.namebot = 'RTXZY-MD'
 global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
